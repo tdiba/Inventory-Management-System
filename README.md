@@ -2,7 +2,7 @@
 
 
 ### Executive Summary
-This report presents the findings of an extensive inventory analysis conducted on [Company Name]'s current inventory levels, supplier details, and restock history. The goal was to optimize inventory levels, identify products that are under or overstated in stock, and predict future inventory needs. The analysis utilized a dataset encompassing 50 inventory items, 10 suppliers, and 100 restock records.
+This report presents the findings of an extensive inventory analysis conducted on a company's current inventory levels, supplier details, and restock history. The goal was to optimize inventory levels, identify products that are under or overstated in stock, and predict future inventory needs. The analysis utilized a dataset encompassing 50 inventory items, 10 suppliers, and 100 restock records.
 
 
 ### Analysis Overview
