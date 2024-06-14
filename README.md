@@ -1,21 +1,37 @@
 # Inventory-Management-System
 
+## Table of Contents
 
-### Executive Summary
+- [Project Overview](#project-overview)
+- [Analysis Overview](#analysis-overview)
+  - [Optimization of Inventory Levels](#optimization-of-inventory-levels)
+  - [Identification of Under/Overstated Products](#identification-of-under/overstated-products)
+  - [Prediction of Future Inventory Needs](#prediction-of-future-inventory-needs)
+ 
+- [Visualizations and Insights](#visualizations-and-insights)
+- [Recommendations](#recommendations)
+  
+
+
+### Project Overview
+
 This report presents the findings of an extensive inventory analysis conducted on a company's current inventory levels, supplier details, and restock history. The goal was to optimize inventory levels, identify products that are under or overstated in stock, and predict future inventory needs. The analysis utilized a dataset encompassing 50 inventory items, 10 suppliers, and 100 restock records.
 
 
 ### Analysis Overview
 
   #### Optimization of Inventory Levels
+  
       - Inventory items were categorized into 'Low Stock', 'Medium Stock', and 'High Stock' based on their current quantities.
       - Key findings indicate a balanced distribution across these categories, although a few items were identified as having critically low or high stock levels.
 
   #### Identification of Under/Overstated Products
+  
       - The comparison between current stock levels and average restock quantities helped identify items that were significantly over or understated.
       - A few items were flagged for immediate attention due to their deviation from typical stock levels.
 
   #### Prediction of Future Inventory Needs
+  
       - Future restocking requirements were estimated based on past restock patterns, including average restock quantities and frequencies.
       - The analysis provided predictions on when specific items are likely to require restocking, aiding in proactive inventory management.
 
